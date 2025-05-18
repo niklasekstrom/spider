@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SPIder")(type "KiCad")(uri "${KIPRJMOD}/SPIder.pretty")(options "")(descr "SPIder footprints"))
+)
